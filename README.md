@@ -2,9 +2,7 @@
 
 This is a nasa project for mission control dashboard using [vercel](https://vercel.com).
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
-
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+[**Live Demo →**](https://vercel.com/new)
 
 ## Quick Start
 
